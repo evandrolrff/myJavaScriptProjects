@@ -297,7 +297,7 @@ nav {
     color: var(--clr-white);
   }
 }
-/* background */
+/* hero */
 header {
   min-height: 100vh;
   background: linear-gradient(rgba(63, 208, 212, 0.5), rgba(0, 0, 0, 0.7)),
